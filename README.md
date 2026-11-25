@@ -19,6 +19,10 @@ An interactive Tableau dashboard that answers three questions a hotel revenue te
 
 </details>
 
+## Open the workbook
+
+Download [`tableau/HotelRevenueAnalytics.twbx`](tableau/HotelRevenueAnalytics.twbx) and open it in [Tableau Public](https://www.tableau.com/products/public/download) (free) or Tableau Desktop. The data is packaged inside the workbook, so no extra setup is needed. Or [view it live on Tableau Public](https://public.tableau.com/app/profile/hasnain.sizar/viz/HotelRevenueAnalytics_17955572469610/Overview).
+
 ## Key findings (Year 2 vs Year 1, both hotels)
 
 - **RevPAR grew 28%**, from $69.78 to $89.59. The gain split almost evenly between higher occupancy (+$9.74) and higher rates (+$10.08).
@@ -54,6 +58,8 @@ An interactive Tableau dashboard that answers three questions a hotel revenue te
 | `data/hotel_rooms.csv` | hotel | Room counts |
 | `scripts/build_data.py` | | Rebuilds every file from the raw CSV: `python scripts/build_data.py raw/hotels.csv data` |
 | `raw/hotels.csv` | booking | Original dataset (via TidyTuesday, Feb 2020) |
+| `tableau/HotelRevenueAnalytics.twbx` | | Tableau workbook (3 dashboards) |
+| `images/` | | Dashboard screenshots |
 
 ## Tools
 
