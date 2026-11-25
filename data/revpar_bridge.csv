@@ -1,0 +1,13 @@
+hotel,step_order,step,value,bar_start,bar_end,step_type
+All hotels,1,Year 1 RevPAR,69.78,0.0,69.78,total
+All hotels,2,Occupancy effect,9.74,69.78,79.51,change
+All hotels,3,Rate effect,10.08,79.51,89.59,change
+All hotels,4,Year 2 RevPAR,89.59,0.0,89.59,total
+City Hotel,1,Year 1 RevPAR,72.14,0.0,72.14,total
+City Hotel,2,Occupancy effect,13.47,72.14,85.6,change
+City Hotel,3,Rate effect,11.87,85.6,97.47,change
+City Hotel,4,Year 2 RevPAR,97.47,0.0,97.47,total
+Resort Hotel,1,Year 1 RevPAR,66.92,0.0,66.92,total
+Resort Hotel,2,Occupancy effect,5.74,66.92,72.66,change
+Resort Hotel,3,Rate effect,7.41,72.66,80.08,change
+Resort Hotel,4,Year 2 RevPAR,80.08,0.0,80.08,total
